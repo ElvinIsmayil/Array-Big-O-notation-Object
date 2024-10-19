@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Array, Big O notation, Object\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44BF96E1-EA0E-4EDE-9D25-2D9FBC80C7C7}|Array, Big O notation, Object\\Array, Big O notation, Object.csproj|c:\\users\\elvin\\desktop\\c#\\console\\array, big o notation, object\\array, big o notation, object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BF96E1-EA0E-4EDE-9D25-2D9FBC80C7C7}|Array, Big O notation, Object\\Array, Big O notation, Object.csproj|solutionrelative:array, big o notation, object\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Array, Big O notation, Object\\Array, Big O notation, Object\\Program.cs",
+              "RelativeDocumentMoniker": "Array, Big O notation, Object\\Program.cs",
+              "ToolTip": "C:\\Users\\Elvin\\Desktop\\C#\\Console\\Array, Big O notation, Object\\Array, Big O notation, Object\\Program.cs",
+              "RelativeToolTip": "Array, Big O notation, Object\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T19:02:29.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

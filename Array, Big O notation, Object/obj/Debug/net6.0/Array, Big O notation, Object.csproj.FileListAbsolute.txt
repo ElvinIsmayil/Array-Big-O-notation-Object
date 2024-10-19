@@ -1,0 +1,15 @@
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\obj\Debug\net6.0\Array, Big O notation, Object.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\obj\Debug\net6.0\Array, Big O notation, Object.AssemblyInfoInputs.cache
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\obj\Debug\net6.0\Array, Big O notation, Object.AssemblyInfo.cs
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\obj\Debug\net6.0\Array, Big O notation, Object.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\obj\Debug\net6.0\Array, Big O notation, Object.sourcelink.json
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\bin\Debug\net6.0\Array, Big O notation, Object.exe
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\bin\Debug\net6.0\Array, Big O notation, Object.deps.json
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\bin\Debug\net6.0\Array, Big O notation, Object.runtimeconfig.json
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\bin\Debug\net6.0\Array, Big O notation, Object.dll
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\bin\Debug\net6.0\Array, Big O notation, Object.pdb
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\obj\Debug\net6.0\Array, Big O notation, Object.dll
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\obj\Debug\net6.0\refint\Array, Big O notation, Object.dll
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\obj\Debug\net6.0\Array, Big O notation, Object.pdb
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\obj\Debug\net6.0\Array, Big O notation, Object.genruntimeconfig.cache
+C:\Users\Elvin\Desktop\C#\Console\Array, Big O notation, Object\Array, Big O notation, Object\obj\Debug\net6.0\ref\Array, Big O notation, Object.dll
